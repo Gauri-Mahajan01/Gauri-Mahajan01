@@ -1,4 +1,4 @@
-[![Gauri](https://github.com/Gauri-Mahajan01/Gauri-Mahajan01/raw/main/hero.svg)](https://github.com/Gauri-Mahajan01/Gauri-Mahajan01/blob/main/hero.svg)
+[![Gauri](https://github.com/Gauri-Mahajan01/Gauri-Mahajan01/raw/main/hero.svg?v=2)](https://github.com/Gauri-Mahajan01/Gauri-Mahajan01/blob/main/hero.svg)
 
 <!--
   To add more sections, delete this comment's first and last lines and fill in the text.
